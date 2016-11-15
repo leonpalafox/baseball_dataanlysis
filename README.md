@@ -1,7 +1,7 @@
 # Baseball Data Analysis
-The answer to the first question is located in this PDF file.
+The answer to the first question is located in this [PDF file](https://github.com/leonpalafox/baseball_dataanlysis/blob/master/BaseballAnswer1.pdf).
 
-The notebook static file can be seen in this (link)[notebook]
+The notebook static file can be seen in this (link)[https://github.com/leonpalafox/baseball_dataanlysis/blob/master/DataAnalysis.ipynb]
 
 The libraries that I used are:
 - [Scikit-Learn] (http://scikit-learn.org/)
